@@ -14,6 +14,54 @@ Whether you are a researcher, AI enthusiast, or a developer looking to improve t
 
 Happy prompt crafting!
 
+# General Principles on Prompt Engineering Based on OpenAI
+
+This document outlines principles and guidelines for prompt engineering using OpenAI's models.
+
+## Principle I: Be Clear and Specific
+
+When crafting prompts, clarity and specificity are key. The model should be able to understand exactly what is being asked.
+
+### 1. Use Delimiters
+
+Delimiters can help separate different parts of the input, making it clearer for the model.
+
+Example: `prompt = '"This is the first part of the input." "This is the second part of the input."'`
+
+### 2. Ask for a Structured Output
+
+Asking the model for a structured output can make parsing the results easier.
+
+Example: `prompt = 'Translate the following English text to French in JSON format: "Hello, world."'`
+
+### 3. Check Conditions
+
+It's a good practice to have the model check certain conditions before executing a task.
+
+Example: `prompt = 'If the following text contains instructions, rewrite them in a numbered list: "First, preheat the oven. Then, mix the ingredients."'`
+
+### 4. Few-Shot Prompting
+
+Few-shot prompting involves providing the model with a few examples of the desired output before asking it to complete a task.
+
+Example: `prompt = '"Hello, world." in French is "Bonjour, monde." "Goodbye" in French is "Au revoir." What is "Thank you" in French?'`
+
+## Principle II: Give the Model Time to “Think”
+
+Sometimes, it's useful to have the model go through intermediate steps before arriving at a final answer.
+
+### 1. Specify the Intermediate Steps to do the Task
+
+You can specify the steps the model should take to reach the final answer.
+
+Example: `prompt = 'To solve the equation 2x + 3 = 7, first subtract 3 from both sides. Then, divide both sides by 2. What is the value of x?'`
+
+### 2. Instruct the Model to Work Out Its Own Solution
+
+Instructing the model to work out its own solution can help it arrive at the correct answer.
+
+Example: `prompt = 'Solve the equation 2x + 3 = 7 for x.'`
+
 ## Case studies 📝
 
 1. ChatGPT’s On-Demand Prompt Generation for Effortless Working 🤖
