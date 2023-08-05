@@ -1,4 +1,4 @@
-# 🖊️ MinimalPrompt: A Minimalist Approach to Prompt Engineering 📚
+# 🖊️ A Minimalist Approach to Prompt Engineering 📚
 
 MinimalPrompt is your minimalist, no-frills approach to the world of prompt engineering for AI models. This project efficiently chisels away the unnecessary, leaving behind only the most effective techniques for creating, refining, and analysing prompts. Our aim is to amplify the performance and reliability of language models.
 
