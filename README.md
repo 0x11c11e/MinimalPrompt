@@ -12,9 +12,9 @@ In this repository, you will uncover:
 
 - **🎨 Techniques for effective prompt design**: Guides on creating prompts that elicit specific responses from AI models.
 - **🌍 Case Studies**: Real-world examples of prompt engineering.
-~- 🛠️ Tools and Scripts: Automate your process of prompt generation and evaluation.~
-~- 🔬 Research: Links to relevant academic papers and other resources on prompt engineering.~
-~- 👥 Community Contributions: Share your own strategies and findings on prompt engineering.~
+- ~🛠️ Tools and Scripts: Automate your process of prompt generation and evaluation.~
+- ~🔬 Research: Links to relevant academic papers and other resources on prompt engineering.~
+- ~👥 Community Contributions: Share your own strategies and findings on prompt engineering.~
 
 Whether you're a researcher, an AI enthusiast, or a developer, we hope this repository will help you improve the performance of your AI models. We encourage contributions and feedback to continually improve and expand the field of prompt engineering.
 
