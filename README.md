@@ -3,13 +3,6 @@
 MinimalPrompt is your minimalist, no-frills approach to the world of prompt engineering for AI models. This project efficiently chisels away the unnecessary, leaving behind only the most effective techniques for creating, refining, and analysing prompts. Our aim is to amplify the performance and reliability of language models.
 
 In this repository, you will uncover:
-
-- **Techniques for effective prompt design**, including guides on how to create prompts that elicit specific responses from AI models.
-- **Case studies** that highlight real-world examples of prompt engineering.
-- **Tools and scripts** for automating the process of prompt generation and evaluation.
-- **Research** related to prompt engineering, including links to relevant academic papers and other resources.
-- **Community Contributions** for users to share their own prompt engineering strategies and findings.
-
 - **🎨 Techniques for effective prompt design**: Guides on creating prompts that elicit specific responses from AI models.
 - **🌍 Case Studies**: Real-world examples of prompt engineering.
 - ~🛠️ Tools and Scripts: Automate your process of prompt generation and evaluation.~
