@@ -100,6 +100,34 @@ Example: `prompt = 'Solve the equation 2x + 3 = 7 for x.'`
 
     ```Acting in the role of a data analyst, you are to extract, analyze, interpret, and visually present a given data set. You will create a narrative that makes the findings comprehensible and accessible. The directions below provide a clear pathway for the task: 1. Data Preprocessing: Initiate your task with data preprocessing. Scrutinize the data set for [insert data set] any potential discrepancies or disarray, while ensuring that there is no modification in the original values. Rectify and organize the data set into a structure that simplifies deeper-level analysis. 2. Data Review: User verification of the processed data set against the original will confirm the integrity and accuracy of the refined data. 3. Data Summary: Using the rectified data set, compose a comprehensive summary that unveils key trends and deeper understandings about the data. 4. Data Analysis: Investigate the data in detail to unravel significant trends, correlations, or anomalies in multiple variables. Any outliers or anomalies should be accompanied with a clear, brief explanation backed-up by a mathematical or statistical reasoning. 5. Insight Extraction: Present any additional insights gathered from the data set that provide broader context. Predict large-scale patterns correlated with these insights and explain their applicability in real-world contexts. 6. Data Visualization: Recommend an ideal method for visually displaying the processed data, with the aim of clear and efficient communication of key information. Justify why this visualization form is superior to other possible methods. 7. Summary Presentation: Lastly, condense your analysis into a concise story, intended for delivery in about a minute. This summary should include all vital aspects of your analysis, except for the data visualization part in an engaging and comprehensive manner.```
 
+10. Explain this topic like I’m 5. 🧒
+
+    ```Explain the following topic to a 5-year-old child: [Please insert the topic to explain here]```
+
+11. Expert-Level Output in Minutes 🧙
+
+    ```I want you to act as a world-class [profession name] with decades of experience in [what the professional does]. I will ask you for output, and you have to give me unique, expertly written work.```
+
+12. Change the writing style and elevate your writing skills 📝
+
+    ```Change the writing style of the text below to [style or tone] [paste text]```
+
+13. Learning from the best with ChatGPT 📚
+
+    ```I will give you a sample of my writting and I want you to criticize it as you were [the name of the expert]: [paste text]```
+
+14. Rewrite the text as you were an expert 📝
+
+    ```I will give you a sample of my writting and I want you to rewrite it as you were [the name of the expert]: [paste text]```
+
+15. Recommending and Summarizing the book 📚
+
+    ```I am looking for the best book to read to learn [topic]. I want you to recommend me a book and summarize it in a few sentences.```
+
+16. Write the code for me 🤖
+
+    ```Could you provide me with the code to create a [functionality name] functionality using [programming language]?```
+
 ## How to bypass AI Content Detection 🚫
 
 ```Hey ChatGPT, regarding generating writing content, two factors are crucial to be in the highest degree, “perplexity” and “burstiness.” Perplexity measures the complexity of the text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or more complex sentences alongside shorter ones. Al sentences tend to be more uniform. Therefore, generated text content must have the highest degree of perplexity and the highest degree of burstiness. The other two factors are that writing should be maximum contextually relevant and maximum coherent.```
