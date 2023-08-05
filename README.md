@@ -1,6 +1,6 @@
 # 📰 Welcome to PromptCraft 📰
 
-PromptCraft is a comprehensive repository dedicated to the art and science of prompt engineering for AI models. This project explores various techniques and strategies for creating, refining, and analyzing prompts to improve the performance and reliability of language models.
+MinimalPrompt is a streamlined resource focusing on the essentials of prompt engineering for AI models. This project pares down extraneous and repetitive prompts, honing in on unique and efficient techniques for the creation, refinement, and analysis of prompts to enhance the performance and reliability of language models.
 
 In this repository, you will find:
 
